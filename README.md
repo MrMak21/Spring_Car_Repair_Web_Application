@@ -52,7 +52,15 @@ The index page consists of the following:
     b. For a user's AFM (National Insurance number) display all available db records
 
     c. For a user's Email Adress display all available db records
-<span style="color:orange;">Word up</span>
+
+<h1>-Built With</h1>
+      
+      -[Apache Maven](https://maven.apache.org/)
+      -[Spring Boot]()
+      -[Intellij Idea](https://www.jetbrains.com/idea/)
+      -[Mysql Server]()
+      
+      
 
 
 The project was developed in collaboration with: [Giannis Agathos](https://github.com/ioanags)
