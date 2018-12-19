@@ -2,9 +2,9 @@
 
 The aim of this repository is to learn Spring Boot and develop a CRUD application regarding a Car Repair Shop so as to deeply understand design patterns regarding the 3-tier Architecture used by this MVC framework.
 
-During server's startup, Spring Boot will automatically load 20 tuples of dummy data for each table so as to adequately Unit Test the application. When the server's proccess is terminated all data will be deleted automatically (Spring Boot Documentation: Database Initialization).
+<h5>This is a project made in the days of <strong>Project Future</strong(powered by Peiraus Bank, Code.Hub ,Regeneration)</h5>
 
-After importing the project, simply fire up your server (tomcat's port is set to 8000) and click the following:
+After importing the project, simply fire up your server (tomcat's port is set to 8081) and click the following:
 Login Page
 
 The Login page (username/password) is validating the input via the database's password records which are hash encrypted. In order to login and test out the application the following login credentials are given [username/password] :
