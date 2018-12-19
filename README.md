@@ -52,8 +52,7 @@ The index page consists of the following:
     b. For a user's AFM (National Insurance number) display all available db records
 
     c. For a user's Email Adress display all available db records
-
-<font color="green"> Some green text </font>
+<span style="color:orange;">Word up</span>
 
 
 The project was developed in collaboration with: [Giannis Agathos](https://github.com/ioanags)
