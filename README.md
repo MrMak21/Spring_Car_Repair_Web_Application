@@ -1,8 +1,8 @@
 <h1>SpringBoot Applications</h1>
 
 ![Login Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/login.png)
-![Create User Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/create.png)
-![Users Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/users.png)
+![Create User Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/create_user.png)
+![Users Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/user_list.png)
 ![Repairs Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/repairs.png)
 
 The aim of this repository is to learn Spring Boot and develop a CRUD application regarding a Car Repair Shop so as to deeply understand design patterns regarding the 3-tier Architecture used by this MVC framework.
