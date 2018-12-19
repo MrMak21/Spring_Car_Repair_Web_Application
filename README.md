@@ -53,4 +53,7 @@ The index page consists of the following:
 
     c. For a user's Email Adress display all available db records
 
+<font color="green"> Some green text </font>
+
+
 The project was developed in collaboration with: [Giannis Agathos](https://github.com/ioanags)
