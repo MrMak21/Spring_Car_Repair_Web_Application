@@ -1,6 +1,6 @@
 <h1>SpringBoot Applications</h1>
 
-![Login Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/login.png)
+![Login Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/login.png  | width=100 )
 ![Create User Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/create_user.png)
 ![Users Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/user_list.png)
 ![Repairs Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/repairs.png)
