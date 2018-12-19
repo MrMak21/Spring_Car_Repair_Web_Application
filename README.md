@@ -53,4 +53,4 @@ The index page consists of the following:
 
     c. For a user's Email Adress display all available db records
 
-The project was developed in collaboration with: @Giannis Agathos
+The project was developed in collaboration with: [a link](https://github.com/ioanags)
