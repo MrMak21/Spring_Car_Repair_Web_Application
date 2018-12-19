@@ -29,7 +29,7 @@ The index page consists of the following:
 
  <h5>-Display All Contributors</h5>
 
- -User/Owner of a Car page
+ <strong>-User/Owner of a Car page</strong>
 
     a. Create New User Entry
 
@@ -37,7 +37,7 @@ The index page consists of the following:
 
     c. Update/Delete an Entry
 
- -Car Repair Shop page
+ <strong>-Car Repair Shop page</strong>
 
     a. Create New Repair Entry
 
@@ -45,7 +45,7 @@ The index page consists of the following:
 
     c. Update/Delete an Entry
 
- -Search the Database (via User Input)
+ <strong>-Search the Database (via User Input)</strong>
 
     a. For a user's surname display all available db records
 
