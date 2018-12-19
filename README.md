@@ -25,9 +25,9 @@ The Login page (username/password) is validating the input via the database's pa
 
 The index page consists of the following:
 
- -Contributors page
+ <h5>-Contributors page</h5>
 
- -Display All Contributors
+ <h5>-Display All Contributors</h5>
 
  -User/Owner of a Car page
 
