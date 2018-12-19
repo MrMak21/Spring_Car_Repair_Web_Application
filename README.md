@@ -25,17 +25,17 @@ The Login page (username/password) is validating the input via the database's pa
 
 The index page consists of the following:
 
--Contributors page
+*-Contributors page
 
--Display All Contributors
+  *-Display All Contributors
 
--User/Owner of a Car page
+  *-User/Owner of a Car page
 
-a. Create New User Entry
+    a. Create New User Entry
 
-b. Display All Entries
+    b. Display All Entries
 
-c. Update/Delete an Entry
+    c. Update/Delete an Entry
 
 -Car Repair Shop page
 
