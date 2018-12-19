@@ -17,11 +17,11 @@ The Login page (username/password) is validating the input via the database's pa
 Ρegarding Hash Encryption, user, administrator in these credentials have deliberately the same value. More specifically, even though they have the same (string) value, they are stored differently to our database. More specifically, User_Role Password is encrypted as: $10$FKg42N1H9SytX7kr6m7TGu8T4uOcAdF5DTZOrI69CxPMVuVMm9iiy
 
 
-<h4>Users's Index Page</h4>
+<h3>Users's Index Page</h3>
 
-<p>Depending on the user's credentials the webpage shall display the current Repair status of the car as stored to the database.</p>
+<p>Depending on the user's credentials the webpage shall display the current Repair status of the car as stored to the database including information about the Repair (date cost..).</p>
 
-<h4>Admin's Index Page</h4>
+<h3>Admin's Index Page</h3>
 
 The index page consists of the following:
 
