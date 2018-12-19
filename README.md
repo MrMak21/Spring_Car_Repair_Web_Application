@@ -55,10 +55,10 @@ The index page consists of the following:
 
 <h1>-Built With</h1>
       
-   [Apache Maven](https://maven.apache.org/) <br>
-   -Spring Boot <br>
-   -[Intellij Idea](https://www.jetbrains.com/idea/)
-   -[Mysql Server]()
+   [Apache Maven](https://maven.apache.org/) - <br>
+   [Spring Boot]  <br>
+   [Intellij Idea](https://www.jetbrains.com/idea/)<br>
+   [Mysql Server](https://dev.mysql.com/downloads/mysql/)
       
       
 
