@@ -2,7 +2,7 @@
 
 The aim of this repository is to learn Spring Boot and develop a CRUD application regarding a Car Repair Shop so as to deeply understand design patterns regarding the 3-tier Architecture used by this MVC framework.
 
-<h5>This is a project made in the days of <strong>Project Future</strong(powered by Peiraus Bank, Code.Hub ,Regeneration)</h5>
+<h5>This is a project made in the days of <strong>Project Future</strong>(powered by Peiraus Bank, Code.Hub ,Regeneration)</h5>
 
 After importing the project, simply fire up your server (tomcat's port is set to 8081) and click the following:
 Login Page
