@@ -1,5 +1,7 @@
 <h1>SpringBoot Applications</h1>
 
+![Login Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/login.png)
+
 The aim of this repository is to learn Spring Boot and develop a CRUD application regarding a Car Repair Shop so as to deeply understand design patterns regarding the 3-tier Architecture used by this MVC framework.
 
 <h5>This is a project made in the days of <strong>Project Future</strong>(powered by Peiraus Bank, Code.Hub ,Regeneration)</h5>
@@ -59,7 +61,6 @@ The index page consists of the following:
    [Spring Boot](https://spring.io/projects/spring-boot)  <br>
    [Intellij Idea](https://www.jetbrains.com/idea/)<br>
    [Mysql Server](https://dev.mysql.com/downloads/mysql/)
-      
       
 
 
