@@ -4,13 +4,15 @@ The aim of this repository is to learn Spring Boot and develop a CRUD applicatio
 
 <h5>This is a project made in the days of <strong>Project Future</strong>(powered by Peiraus Bank, Code.Hub ,Regeneration)</h5>
 
+<h3>Getting Started</h3>
+
 After importing the project, simply fire up your server (tomcat's port is set to 8081) and click the following:
-Login Page
+http://localhost:8081/
 
 The Login page (username/password) is validating the input via the database's password records which are hash encrypted. In order to login and test out the application the following login credentials are given [username/password] :
 
-- User_Role: ssore1@gmpg.org / pass1234
-- Admin_Role: lrutgers3@ustream.tv / pass1234
+- User_Role: user / pass1234
+- Admin_Role: admin / pass1234
 
 Ρegarding Hash Encryption, user, administrator in these credentials have deliberately the same value. More specifically, even though they have the same (string) value, they are stored differently to our database. More specifically, User_Role Password is encrypted as: $10$FKg42N1H9SytX7kr6m7TGu8T4uOcAdF5DTZOrI69CxPMVuVMm9iiy
 
