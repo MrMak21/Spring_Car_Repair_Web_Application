@@ -1,4 +1,4 @@
-<h1>SpringBoot Applications</h1>
+<h1>SpringBoot Application</h1>
 
 ![Login Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/login.png)
 ![Create User Image](https://github.com/MrMak21/Spring_Car_Repair_Web_Application/blob/master1/create_user.png)
